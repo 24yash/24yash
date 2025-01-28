@@ -30,14 +30,11 @@ Welcome to my GitHub profile! I'm **Yash Singhal**, an enthusiastic developer, d
 ### 📫 **Get in Touch**
 - 📧 Email: yash2492003@gmail.com
 - 🌐 LinkedIn: [linkedin.com/in/yashs24](https://linkedin.com/in/yashs24)
-- 💻 GitHub: [github.com/24yash](https://github.com/24yash)
-
+- 🐦 X (Twitter): [x.com/yashstwt](https://x.com/yashstwt)
 ---
 
 ### 📊 **GitHub Stats**
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=24yash&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=24yash&layout=compact&theme=radical)](https://github.com/24yash)
 
 ---
 
